@@ -16,18 +16,17 @@ An AI-powered pricing assistant for HVAC, Plumbing, and Electrical service provi
 
 ## 🚀 Features
 
-Upload your own pricebook CSV  
-Auto-calculate total cost and profit margins  
-AI-powered price prediction and service categorization  
-Margin optimization via interactive slider  
-Profit margin boxplot by category  
-Linear regression to visualize cost-price trends  
-Export to:
+1. Upload your own pricebook CSV  
+2. Auto-calculate total cost and profit margins  
+3. AI-powered price prediction and service categorization  
+4. Margin optimization via interactive slider  
+5. Profit margin boxplot by category  
+6.Linear regression to visualize cost-price trends  
+7. Export to:
 - 📄 CSV (optimized pricebook)
 - 📊 Excel (formulas for Total Cost & Margin %)
-
-Built-in session logger to track predictions  
-Streamlit-based interactive UI
+8. Built-in session logger to track predictions  
+9. Streamlit-based interactive UI
 
 ---
 
