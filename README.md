@@ -1,10 +1,4 @@
-Absolutely, Harshini! Here's your **final `README.md`**, fully customized with all your app features, Excel output, Streamlit screenshots, and interview-ready language tailored for **ServiceTitan-type roles**.
 
----
-
-## ✅ Final `README.md` (Copy-Paste Ready)
-
-```markdown
 # 🔧 Home Services Pricebook Optimizer
 
 An AI-powered pricing assistant for HVAC, Plumbing, and Electrical service providers — designed to match real-world workflows like those used in ServiceTitan.
@@ -13,28 +7,27 @@ An AI-powered pricing assistant for HVAC, Plumbing, and Electrical service provi
 
 ---
 
-## 📸 Demo Screenshots
+## 📸 Order Of Output 
 
 | Margin Analysis | Regression Trend | Suggested Pricing | Excel Output |
 |-----------------|------------------|-------------------|--------------|
-| ![margin](screenshots/margin_boxplot.png) | ![trend](screenshots/trend_line.png) | ![optimized](screenshots/suggested_prices.png) | ![excel](screenshots/excel_output.png) |
 
 ---
 
 ## 🚀 Features
 
-✅ Upload your own pricebook CSV  
-✅ Auto-calculate total cost and profit margins  
-✅ AI-powered price prediction and service categorization  
-✅ Margin optimization via interactive slider  
-✅ Profit margin boxplot by category  
-✅ Linear regression to visualize cost-price trends  
-✅ Export to:
+Upload your own pricebook CSV  
+Auto-calculate total cost and profit margins  
+AI-powered price prediction and service categorization  
+Margin optimization via interactive slider  
+Profit margin boxplot by category  
+Linear regression to visualize cost-price trends  
+Export to:
 - 📄 CSV (optimized pricebook)
 - 📊 Excel (formulas for Total Cost & Margin %)
 
-✅ Built-in session logger to track predictions  
-✅ Streamlit-based interactive UI
+Built-in session logger to track predictions  
+Streamlit-based interactive UI
 
 ---
 
@@ -150,7 +143,6 @@ Light Fixture Installation,Electrical,65,35,130
 
 ## 💼 Use Cases
 
-* ServiceTitan consultants optimizing pricebooks
 * SMBs creating dynamic pricing strategies
 * Field service owners testing AI-assisted markup tools
 * Business analysts aligning real cost-to-price logic
@@ -160,17 +152,16 @@ Light Fixture Installation,Electrical,65,35,130
 ## 👩‍💻 Author
 
 **Harshini Akunuri**
-*Data Scientist | AI Developer | ServiceOps Optimizer*
+*Data Scientist | AI Developer *
 📫 [LinkedIn →](https://www.linkedin.com/in/harshini-akunuri/)
 🌐 [GitHub →](https://github.com/ha723-web)
 
 ---
 
-## 📄 License
+## ⚠️ Disclaimer
 
-Licensed under the [MIT License](LICENSE).
-
-```
+This project is a personal and educational prototype built to demonstrate pricing optimization concepts using sample data.  
+It is intended for learning, experimentation, and portfolio purposes only.
 
 ---
 
