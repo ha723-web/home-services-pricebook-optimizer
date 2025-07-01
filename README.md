@@ -133,8 +133,8 @@ Light Fixture Installation,Electrical,65,35,130
 
 ## 📤 Output Formats
 
-* ✅ `optimized_pricebook.csv`: clean CSV with updated prices
-* ✅ `optimized_pricebook_with_formulas.xlsx`: Excel with formulas like:
+* `optimized_pricebook.csv`: clean CSV with updated prices
+* `optimized_pricebook_with_formulas.xlsx`: Excel with formulas like:
 
   * `Total Cost = C2 + D2`
   * `Profit Margin (%) = (E2 - F2)/E2`
